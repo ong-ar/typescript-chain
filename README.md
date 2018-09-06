@@ -1,2 +1,3 @@
 # typescript-chain
-practice using typescript 
+
+Learning typescript by making a Blockchain with it
