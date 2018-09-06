@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2015", //컴파일 될 버전
+    "sourceMap": true
+  },
+  "include": ["index.ts"],
+  "exclude": ["node_modules"]
+}
